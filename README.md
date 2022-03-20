@@ -1,6 +1,6 @@
 ### Welcome 👋   I am Andy Choo
 
-A Korean-American, and currently a student at the UNC Full-Stack Coding Bootcamp. I reside in North Carolina, and am a tech enthusiast. 
+A Korean-American, full-stack web developer. Currently I reside in North Carolina, but have aspirations to move to a big city. I enjoy building/customizing keyboards, and have a love for new tech!
 
 
 Contact: 
